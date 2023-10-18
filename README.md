@@ -26,6 +26,11 @@ Related videos with Arduino UNO and 128x64 OLED screen:
 ![THUMB_attiny85_tinycade](https://github.com/upiir/tinycade_attiny85_games/assets/117754156/60676a42-b0a0-4f95-a2dc-1f8c723d4504)
 
 
+Small animation:
+
+![tinycade_intro](https://github.com/upiir/tinycade_attiny85_games/assets/117754156/f5667df5-9bdf-4990-9d5e-db93ac2ba566)
+
+
 
 
 Screenshots from the video:
